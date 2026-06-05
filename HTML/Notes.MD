@@ -22,3 +22,14 @@ AnchorElement -> used to add  links to  your pages
                 --> Relative Path - local path
                 --> Absolute Path - Global url
 ImageElement -> used to add image to your page
+                it is single tag <img>
+
+More HTML Tags :
+        break->br
+        bold->b
+        italic->i
+        uderline->u     
+
+Comment : Not To Prase the HTML Tags Here: simply meaning of this is that.
+
+HTML Is Not Case Sensitivity
