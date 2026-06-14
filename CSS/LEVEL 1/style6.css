@@ -1,0 +1,36 @@
+h1{
+   text-align: center;
+   border: solid;
+   width: 100%;
+   font-family: papyrus;
+}
+h3{
+   text-align: right;
+   font-weight: normal;
+}
+p{
+   text-align: justify;
+}
+.para{
+   font-weight: 700;
+   font-weight: bold;
+   text-decoration: red underline;
+   text-decoration: wavy overline;
+   text-decoration:  double line-through;
+
+   text-decoration: none;
+}
+
+.paragraph{
+   line-height: normal;
+   line-height: 2.5;
+
+   letter-spacing: normal;
+   letter-spacing: 5px;
+   letter-spacing: 5 pt;
+   letter-spacing: 5 pc;
+}
+
+.paragraph{
+   font-family: 'Courier New', Courier, monospace;
+}
